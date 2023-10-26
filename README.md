@@ -1,5 +1,6 @@
 ## 🛎 Notification
-      Đây chỉ là một Repositorie mình tổng hợp từ nhóm chat cho mọi người dễ tìm kiếm lại xD
+      + 📝 Đây chỉ là một response tổng hợp các file trong nhóm mess của GDSC PHENIKAA CLUB do mình tự thu thập xD
+      + 📝 Khuyến khích mọi người nên dùng các link bên dưới cho tiện xD
 ## LIST DOCUMENTS HIỆN CÓ
 + [Các câu lệnh git cơ bản](https://github.com/tuzifake/GDSC-File/blob/main/git_basic_commands/git_basic_commands.jpg)
 + [Tài liệu nâng cao về git](https://github.com/georgeowen1993/learn-git-the-hard-way)
